@@ -1,0 +1,8 @@
+2026-07-15 15:21:44,385 | INFO | bot.client | Client Created
+2026-07-15 15:21:44,385 | INFO | __main__ | Input Validated
+2026-07-15 15:21:44,385 | INFO | bot.orders | Placing MARKET order: BUY 0.001 BTCUSDT
+2026-07-15 15:21:44,960 | INFO | bot.orders | Order summary:{'Order ID': 21873032411, 'Symbol': 'BTCUSDT', 'Side': 'BUY', 'Order Type': 'MARKET', 'Status': 'NEW', 'Executed Quantity': '0.0000', 'Average Price': None}
+2026-07-15 15:22:01,362 | INFO | bot.client | Client Created
+2026-07-15 15:22:01,362 | INFO | __main__ | Input Validated
+2026-07-15 15:22:01,362 | INFO | bot.orders | Placing Limit order: BUY 0.001 BTCUSDT
+2026-07-15 15:22:01,866 | INFO | bot.orders | Order summary:{'Order ID': 21873077351, 'Symbol': 'BTCUSDT', 'Side': 'BUY', 'Order Type': 'LIMIT', 'Status': 'NEW', 'Executed Quantity': '0.0000', 'Average Price': None}
